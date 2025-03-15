@@ -1,0 +1,1 @@
+cmd_/home/brian-vm/Documents/lab3/kfetch_mod/kfetch_mod_313553054.mod := printf '%s\n'   kfetch_mod_313553054.o | awk '!x[$$0]++ { print("/home/brian-vm/Documents/lab3/kfetch_mod/"$$0) }' > /home/brian-vm/Documents/lab3/kfetch_mod/kfetch_mod_313553054.mod
