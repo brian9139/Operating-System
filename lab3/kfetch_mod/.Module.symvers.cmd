@@ -1,1 +1,0 @@
-cmd_/home/brian-vm/Documents/lab3/kfetch_mod/Module.symvers :=  sed 's/ko$$/o/'  /home/brian-vm/Documents/lab3/kfetch_mod/modules.order | scripts/mod/modpost -m -a    -o /home/brian-vm/Documents/lab3/kfetch_mod/Module.symvers -e -i Module.symvers -T - 
